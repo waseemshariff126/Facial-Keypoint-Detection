@@ -23,5 +23,4 @@ Notebook 4 : Fun Filters and Keypoint Uses
 
 model.py : Structure of the neural network. 
 
-
 <img src="Images/landmark.png">
